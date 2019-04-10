@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Empty.unity
+    guid: a131d724d26790542948c95202b640ef
+  - enabled: 1
+    path: Assets/Launcher.unity
+    guid: 17acaadd01c23d94586c8ccc54057e80
+  - enabled: 1
+    path: Assets/Data/maps/scenes/login.unity
+    guid: 581a093f0ab962e40be7aef73859f985
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_xiaoyaopai.unity
+    guid: 2eccf53abd9fb7a4995d11897e064541
+  - enabled: 0
+    path: 
+    guid: 2896796c3d5ddf847bb1489a11f9ba6f
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_shinei_minju03.unity
+    guid: 17a9090481905a845bcb0ea81fbfd655
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_shinei_duchang01.unity
+    guid: 072a5e3544d8f3f48975f1e1d97b0810
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_shinei_jiuguan02.unity
+    guid: b03f96db2ebd22140854e5f019f63df4
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_yangzhoujiaowai_day.unity
+    guid: ab1300a4c7d958846ab600b40d59d7b9
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_yangzhoujiaowai_night.unity
+    guid: ca1317ea00c986644af14ebf710b04ca
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_biwuchang.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_xixiajiaowai.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_yihongyuan.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_yihongyuan_houyuan.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: d874d360acdc78d498eb11a1114e4737
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_chapter_hanshuangtan.unity
+    guid: 3db8c9b19fe7a36429eb3c5e3e4f0e5d
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_huangjiao.unity
+    guid: d72fece25d48cc244ba355ea90efffd1
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_huoqizhudi.unity
+    guid: fa670d89be78a28498329ba09facf562
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_jianzhong.unity
+    guid: 58c4a8cb8c5a1fa42a3b016d8b8882ec
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_jindaowangjia.unity
+    guid: 30a3c1dd3c74c9a4586c6e628fbd4ed6
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_jueqinggu.unity
+    guid: 6a3778001ab1b8344a393f70cd153184
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_shinei_lingxiaodian.unity
+    guid: c1c601495266dd448840408784a628c5
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_shinei_minju08.unity
+    guid: 2d1541eadf2e97344bd83c5d40a7988b
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_shulinshenchu.unity
+    guid: f743ef5df6ca2db4199b032edf5f5b9d
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_yaowanggu.unity
+    guid: 93b619f4bf28b1743b2d2d2b9517363c
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_zhenyingzhanchang.unity
+    guid: 8a7b401fc101b884e95e6e3ee94e64e0
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_chapter_duanzhixuanyuan.unity
+    guid: 421deef07ece3f241aa1b70c90897247
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_bazhou.unity
+    guid: 0c11e09aca0116d4d8b125658fb9971a
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_damingfu.unity
+    guid: 29182330f3eca6d49afdd726e14aef12
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_dayuguji.unity
+    guid: 21c2fc07939795d4f9a39b190bfe7ffc
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_feizhai.unity
+    guid: 719a0cebbf1b04f46ae868b640b5eff5
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_nanmanruqing.unity
+    guid: 453b2f32bcf070c4e865832bc5ede115
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_shinei_canglangbang.unity
+    guid: a15120ee796d7fe40a4fbb9d02b48d0e
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_shinei_cangshuge.unity
+    guid: 5c22a270b5b49e24a88c48864d678da5
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_shinei_honghuahui.unity
+    guid: b4323689dfb93244b8623f51e9c95b20
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_shinei_minju04.unity
+    guid: 681e8797cc0ac0c44a0964dc229b00b1
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_shinei_yamen.unity
+    guid: 982661b636a947e43b6cc5b3df1429b7
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_chapter_huanxifo.unity
+    guid: af95dda6b064ca84c882014ceb27ecc2
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_chapter_qiwuyou.unity
+    guid: e5ae56920afeea24ba04bcbe965250ed
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_chapter_shatuoren.unity
+    guid: 38f7613d2501fd148944678bd439c108
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_chapter_sulingji.unity
+    guid: d77ad4e9193c0424b801c76a422a2f97
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_shinei_kezhan.unity
+    guid: 43466ad9f03e87e4290db492e2a595d4
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_xueshanpai.unity
+    guid: 34bdef9f186a6dd4886bdafb5dfb1681
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_yangzhouxiaozhen.unity
+    guid: 6641d3045456c9845b2498cf27aea777
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_doushouchang.unity
+    guid: f21ac983687e53747ab23eea782b8f61
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_gaibang.unity
+    guid: 2618753318638344a93a7bc38cf319da
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_mingjiao.unity
+    guid: b4ff0c4c1be14d04891785fdc556ab96
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_randomscene.unity
+    guid: ccf26633aef90e14e80221ab32fed05d
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_shinei_minju02.unity
+    guid: 8d635bccc6f09d448a1314983ea4fd54
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_shinei_wuguan01.unity
+    guid: edfb28c1e52eab048a7ee4776d357a5a
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_shinei_jiuguan01.unity
+    guid: 76abbe09f30ce6e4aa8983351bc674c9
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_shinei_minju01.unity
+    guid: c7037d2a00b315c46994cfd9b6c2efd7
+  - enabled: 0
+    path: Assets/Data/maps/scenes/map_shinei_wuguan.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_ouyangfudi.unity
+    guid: 58f75f28a3352a048b1a429e5fb3e007
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_xixiacheng3.unity
+    guid: 9cb56d3bbd3d5fb4db844cfc3ce0ac2e
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_xixiajiaowai_day.unity
+    guid: 801578704169e4645b349296b9232f72
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_xixiajiaowai_night.unity
+    guid: 646f65413aa84f64db7542b2617c9b29
+  - enabled: 0
+    path: 
+    guid: 5fd3f0052376fc04fa5778d5450daa89
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_xixiacheng2.unity
+    guid: f340dc0fb912b164ab871ae9ca522fa0
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_yangzhoucheng2.unity
+    guid: 1c5f90a0edef0844eb7f94a2dd98557f
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_xuedaomen.unity
+    guid: 3b106ac9b2af99a498af1dcc38bfb8a4
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_zhujuefudi.unity
+    guid: 29f9f673cc9048a4bb86ad270b20155a
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_heilongtan.unity
+    guid: b386d74357aa96e49a0b37631ca707c9
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_hengshanpai.unity
+    guid: 09eccce617a632e43aaf58646afdd0fa
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_yangzhoucheng.unity
+    guid: 9539010ca0a280d40907c401c7f2461b
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_yangzhoucheng_zhifu.unity
+    guid: 70fc583b1d6186140946a456f6ae23a2
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_yanmenguan.unity
+    guid: e0dbb0da927d4fb4a91552db7ab6d07a
+  - enabled: 0
+    path: 
+    guid: d4dc601522b11b240aba1020d6924055
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_emeipai.unity
+    guid: c0bdfa05a48627044bde20cce43197a4
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_huashanpai.unity
+    guid: 9327ed71ae6c9854bb715879d718f645
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_hudiegu.unity
+    guid: 8cc9801c18cc09249bb1e7fdaba4b60d
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_niujiacun.unity
+    guid: ff353f45384793748baf1da752d3747f
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_taishanpai.unity
+    guid: 9d8e552a94fc8574884515adc3adb74f
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_yangzhoucheng_bfzz.unity
+    guid: 150315c0de177474ca068097cd30a85a
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_yangzhoucheng_zfymml.unity
+    guid: 069e01c1341c8f048b030a3c9cc32854
+  - enabled: 1
+    path: Assets/Data/maps/scenes/map_yanziwu.unity
+    guid: 6a072232373245a4e82a1bf054429a0c

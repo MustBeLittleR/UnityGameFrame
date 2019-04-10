@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 400000}
+  - component: {fileID: 114147933066163278}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+--- !u!114 &114147933066163278
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 495138ca44b6b2c4da470659d917ee0a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_HighlightShader: {fileID: 4800000, guid: 90ea571efc6581843b8e31a80bf2c3c3, type: 3}
+  m_OutlineShader: {fileID: 4800000, guid: c97cad53ae1f476468cf584a95e4c1b3, type: 3}
+  m_CharacterOutLightShader: {fileID: 4800000, guid: aa2bce99438bc534c803dfd916e0973b,
+    type: 3}
+  m_TrasparentHighlightShader: {fileID: 4800000, guid: c70bba34733f6ec478c85d181d6b52b7,
+    type: 3}
+  m_FadeoutShader: {fileID: 4800000, guid: 5320769cccf5ec148b3e73f612a21043, type: 3}
+  m_FossilisedShader: {fileID: 4800000, guid: 3b51749f6194f284bb9ba7af30bcdd62, type: 3}
+  m_FossilisedMap: {fileID: 2800000, guid: e3fc0954015abab43b96bae615909abf, type: 3}
+  m_DissolveTexture: {fileID: 2800000, guid: dd58a6b07e08b1c40805165831fb3875, type: 3}
+  m_TintColorShader: {fileID: 4800000, guid: 4d79851cc152ba0419286d894af7eef9, type: 3}
+  m_DissolveShader: {fileID: 4800000, guid: c54f00b41b283ff47b209cf28c6074b3, type: 3}
+  m_CharacterHighlightShader: {fileID: 4800000, guid: 2402f29fe6029954983bc228cafea60e,
+    type: 3}
+  m_FrozenShader: {fileID: 4800000, guid: ab1cd17e99b80174c8fa1231c4c52d52, type: 3}
+  m_FrozenTexture: {fileID: 2800000, guid: 7c556a5ca945eb64a96c0bb1ac4d1806, type: 3}
+  m_UICDMaskMaterial: {fileID: 2100000, guid: ad25da9e372953041858abd0ed1d1606, type: 2}
+  afterImageEffect: {fileID: 0}
+  afterImageWithScaleEffect: {fileID: 0}
+  m_ColorOffMat: {fileID: 2100000, guid: 851cb7197e3f93f4fb714d35df55d85a, type: 2}
+  m_SceneShader: {fileID: 4800000, guid: 8e0f37cb9bd9a974797319e5b02c8d70, type: 3}

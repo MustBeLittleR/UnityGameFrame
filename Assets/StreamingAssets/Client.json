@@ -1,0 +1,9 @@
+{
+	
+	"sGasIp" : "127.0.0.1",
+	"nGasPort" : "8800",
+	"GameScriptDir": "E:/svn/NewGame/GameX/Script/Games/",
+	"ProtobufDir" :"E:/svn/NewGame/GameX/Script/Games/Gac/protobuf/",
+	"DesignerScriptDir" :"E:/svn/NewGame/GameX/Designer/Config/",
+	"Archive" : "1"
+}

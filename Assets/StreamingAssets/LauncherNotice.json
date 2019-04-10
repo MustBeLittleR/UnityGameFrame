@@ -1,0 +1,38 @@
+{
+	"download_server_list" : "下载服务器列表",
+	"download_server_version" : "下载服务器版本号",
+	"read_launcher_conf": "读取启动器配置表",
+	"read_client_version" :"读取客户端版本号",
+	"check_version" : "检查游戏版本号",
+	"enter_game" : "正在进入游戏",
+	"prepare_game_data" : "初始化游戏资源",
+	"update_game_date" : "更新游戏资源",
+	"generate_version" : "生成版本号",
+	"prepare_game_data_error" : "初始化游戏资源异常",
+	"lacuncher_json_error" : "launcher.json解析错误:",
+	"read_data_error" : "读取本地数据异常",
+	"resourcelist_json_error" : "resourcelist.json解析错误",
+	"game_run_mode_error" : "游戏运行模式错误",
+	"game_run_error" : "游戏运行错误",
+	"version_error" : "版本号错误",
+	"network_error" : "网络错误",
+	"patchlist_error" : "patchlist.json解析错误",
+	"patcher_not_found" : "没有合适的补丁包",
+	"unpack_file" : "解压文件:",
+	"read_disk_or_network_error" : "读取本地或网络数据异常",
+	"client_verison_lost" : "丢失客户端版本号文件",
+	"write_file_error" : "文件写入异常,读写文件权限不足或者空间不足.",
+
+
+	"quit" : "退出游戏",
+	"retry" : "重试",
+	"patcher" : "下载",
+	"ignore" : "忽略",
+	"download" : "下载",
+
+	"sizeInfo" : "\n 本次将会下载资源: ",
+	"firstIntoGame" : "第一次进入游戏, 是否下载游戏资源 ?",
+	"versionUpdate" : "版本更新: ",
+	"patcherUpdate" : "补丁包更新: ",
+	"updateAndUnPakage" : "更新并解压资源中"
+}

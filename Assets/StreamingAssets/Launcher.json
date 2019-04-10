@@ -1,0 +1,14 @@
+{
+// 渠道。0
+"Channel":"0",
+// 1：不解压版本(无资源包)。2：解压版本（从服务器上获取资源包，请一定配置ResourceListUrl）
+"PackFlag":"2",
+
+// 以下是CDN相关的配置，由运营提供 http://117.139.192.21:8111/dg2ol
+"ResourceListUrl":"http://117.139.192.21:8111/dg2ol/Android/Wcr/ResourceList.json", //下载游戏的时候分包下载的列表
+"VersionUrl":"http://117.139.192.21:8111/dg2ol/Android/ServerVersion.json", //服务器版本号相关
+"ServerListUrl":"http://117.139.192.21:8111/dg2ol/Android/ServerList.json", //服务器列表
+"PatcherListUrl":"http://117.139.192.21:8111/dg2ol/Android/Patcher/PatcherList.json", //更新列表
+"PatcherInfoUrl":"http://117.139.192.21:8111/dg2ol/Android/Patcher/PatcherInfo.cfg", //更新提示信息
+"AppDownLoadUrl":"http://117.139.192.21:8111/dg2ol/Android/appdownload.html" //游戏下载
+}
